@@ -14,3 +14,4 @@ If you are using vscode, add this to your `.vscode/setings.json` file in this di
     }
 }
 ```
+Note: Remember to change the GOROOT above to the folder actually created by tinygo
